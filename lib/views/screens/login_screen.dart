@@ -64,7 +64,7 @@ class LoginScreenState extends State<LoginScreen> {
                       ),
                     ),
                     validator: (value) =>
-                    value!.isEmpty ? "Email is required" : null,
+                    value!.isEmpty ? "Email field is required" : null,
                   ),
                   const SizedBox(height: 15),
                   TextFormField(
@@ -93,7 +93,7 @@ class LoginScreenState extends State<LoginScreen> {
                       ),
                     ),
                     validator: (value) =>
-                    value!.isEmpty ? "Password is required" : null,
+                    value!.isEmpty ? "Password field is required" : null,
 
                   ),
                   const SizedBox(height: 20),

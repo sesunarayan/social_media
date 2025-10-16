@@ -30,7 +30,7 @@ class MyApp extends StatelessWidget {
       ],
       child: MaterialApp(
         debugShowCheckedModeBanner: false,
-        title: 'Social Feed',
+        title: 'Social Media',
         theme: ThemeData(
           colorScheme: ColorScheme.fromSeed(seedColor: Color(0xff0f8ee6)),
           primaryColor: Color(0xff0f8ee6),
