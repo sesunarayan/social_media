@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "612809768391",
+    "firebase_url": "https://social-media-42d54-default-rtdb.firebaseio.com",
+    "project_id": "social-media-42d54",
+    "storage_bucket": "social-media-42d54.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:612809768391:android:d8ba8dcf5f10b4ae08ede2",
+        "android_client_info": {
+          "package_name": "com.example.social_media"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyz7MkLK21opFpB-BZXoxrrsB_wrjN_LM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
